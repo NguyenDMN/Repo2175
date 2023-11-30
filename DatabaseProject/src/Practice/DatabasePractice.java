@@ -6,6 +6,7 @@ public class DatabasePractice {
 
 	public static void main(String[] args) {
 		// team member comment 1
+		// team member comment 2
 		
 		// TODO Auto-generated method stub
 		Connection conn = null;
