@@ -5,6 +5,8 @@ import java.sql.*;
 public class DatabasePractice {
 
 	public static void main(String[] args) {
+		// team member comment 1
+		
 		// TODO Auto-generated method stub
 		Connection conn = null;
 		Statement stat =  null;
@@ -67,6 +69,10 @@ public class DatabasePractice {
 		
 		
 
+	}
+	
+	public static void teamMemberFunc() {
+		
 	}
 
 }
